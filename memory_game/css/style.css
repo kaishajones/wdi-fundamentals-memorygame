@@ -1,0 +1,90 @@
+
+
+
+h1 {
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	margin: 0;
+}
+
+p {
+	font-family: "Droid Serif", serif;
+}
+
+body {
+	text-align: center;
+	text-decoration: none;
+	background-color: #ffffff;
+	margin: 0;
+}
+
+a {
+  	text-decoration: none;
+  	font-family: "Raleway", sans-serif;
+  	margin: 0 20px;
+  	color: #ffffff;
+  	background-color: #00A6b3;
+}
+
+header {
+	background-color: #f15b31;
+	padding: 30px 20px;
+	color: #ffffff;
+}
+
+ul {
+	list-style: none;
+	display: block;
+	padding: 0px;
+  	margin: 20px;
+	font-family: "Raleway", sans-serif;
+}
+
+li {
+	display: inline;
+	padding: 20px;
+	margin: 20px;
+}
+
+nav {
+	background-color: #00A6b3;
+	padding: 10px;
+}
+
+
+main {
+	display: center;
+	padding: 20px; 
+	margin: 35px auto;
+	width: 850px;
+}
+
+img {
+	margin: 40px 8px;
+}
+
+
+.memory {
+	font-family: "Raleway", sans-serif;
+	color: #ffffff;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+
+}
+
+.instructions_game {
+	font-family: "Raleway", sans-serif; 
+	color: #f15b31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+
+.game {
+	font-family: "Raleway", sans-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;	
+}
